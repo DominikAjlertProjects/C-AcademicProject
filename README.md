@@ -1,0 +1,1 @@
+Projekt dotyczy programu pozwalającego na zarządzanie pojazdami. Obejmuje schematy dziedziczenia, polimorfizm i inne właściwości obiektowego podejścia C++, a niedługo zostanie wzbogacony również o interfejs graficzny.
